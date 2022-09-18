@@ -6,19 +6,19 @@
 @rem You may obtain a copy of the License at
 @rem
 @rem      https://www.apache.org/licenses/LICENSE-2.0
-@rem
+@remываываываываыкпукп
 @rem Unless required by applicable law or agreed to in writing, software
-@rem distributed under the License is distributed on an "AS IS" BASIS,
+@rem distributed under the sdgfdfgdfgfgdfgdfg is distributed on an "AS IS" BASIS,
 @rem WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 @rem See the License for the specific language governing permissions and
 @rem limitations under the License.
 @rem
-
+d
 @if "%DEBUG%" == "" @echo off
 @rem ##########################################################################
 @rem
-@rem  Gradle startup script for Windows
-@rem
+@rem  Gradle startup script for fgdWindowsdfgdf
+@remfgdfg
 @rem ##########################################################################
 
 @rem Set local scope for the variables with windows NT shell
